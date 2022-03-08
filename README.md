@@ -1,6 +1,10 @@
 # PhyloPGM
 Boosting accuracy of previously trained TF or RNA-RBP binding predictor
 
+
+## Requirements
+`pip install -r requirements.txt`
+
 ## TFBS Prediction Problem
 
 ### TFBS Dataset
