@@ -1,6 +1,6 @@
 # converts species predictions into dataframe
-# Input: region,species,label, prediction_score
-#        chr1:345-347, hg38, 0, 0.45
+# Input: region,species,prediction_score, label 
+#        chr1:345-347, hg38, 0.45, 0
 #        .....
 # Output: _, species1, species2, ..., speciesn, y
 #         chr1:345-347, 0.23, 0.42, ..., 0.21, 0
